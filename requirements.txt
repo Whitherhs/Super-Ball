@@ -1,0 +1,6 @@
+graphics.py==5.0.1.post1
+pygame==2.1.0
+
+pip~=22.0.4
+lxml~=4.6.3
+setuptools~=56.0.0
